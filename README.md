@@ -7,7 +7,7 @@
 </p>  -->
 
 <!-- -->
- 
+ <!--
 <p align="center">
   <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/C++-lightblue.svg?style=for-the-badge&logo=cplusplus" alt="s-i-d-d-i-s" /> </a>
   <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/C-lightblue.svg?style=for-the-badge&logo=cplusplus" alt="s-i-d-d-i-s" /> </a>
@@ -17,7 +17,7 @@
   <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/TypeScript-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
   <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Angular-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
 </p>
-
+-->
 
 <hr>
 
@@ -44,7 +44,7 @@
 <hr>
 
 #### Active Competitive Programer 😄
-
+<!--
 ## My Coding Handles
 
 <a href="https://codechef.com/users/s59_60r"><img src="https://img.shields.io/badge/Codechef-2122-yellow?style=for-the-badge"></a>
@@ -53,7 +53,7 @@
 <a href="https://leetcode.com/cpp_expert/"><img src="https://img.shields.io/badge/Leetcode-2106-ff69b4?style=for-the-badge"></a>
 <a href="https://www.hackerrank.com/s5960r"><img src="https://img.shields.io/badge/Hackerrank-1835-green?style=for-the-badge"></a>
 
-
+-->
 
 ## Academics, Freelance and Internships
 
