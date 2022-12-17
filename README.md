@@ -21,9 +21,9 @@
 
 <hr>
 
-- 🔭 I’m currently working on **Full Stack Software Developement, CLI, Cloud Applications**
+- 🔭 I’m currently working on **Web Developement**
 
-- 💬 Ask me about **C++, Java, Angular, Python, Spring, Algorithms**
+- 💬 Ask me about **C++, Java, JavaScript, OS, DBMS, HTML, CSS, Python, Algorithms**
 
 - ⚡ I have a passion for inventions, I love to create apps based on fresh ideas.
 <!-- 
