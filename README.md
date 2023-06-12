@@ -37,25 +37,17 @@
 
 - ✈️ I've been to
   - India
-  - United Arab Emirates
-  - Germany
-  - Sweden
+  - Nepal
+  - Bhutan
   -->
 <hr>
 
-#### Active Competitive Programer 😄
+#### Active Programer 😄
 <!--
-## My Coding Handles
-
-<a href="https://codechef.com/users/s59_60r"><img src="https://img.shields.io/badge/Codechef-2122-yellow?style=for-the-badge"></a>
-<a href="https://codeforces.com/profile/s59_60r"><img src="https://img.shields.io/badge/Codeforces-1796-rgb(0%2C0%2C255)?style=for-the-badge"></a>
-<a href="https://atcoder.jp/users/s59_60r"><img src="https://img.shields.io/badge/Atcoder-1300-rgb(0%2C192%2C192)?style=for-the-badge"></a>
-<a href="https://leetcode.com/cpp_expert/"><img src="https://img.shields.io/badge/Leetcode-2106-ff69b4?style=for-the-badge"></a>
-<a href="https://www.hackerrank.com/s5960r"><img src="https://img.shields.io/badge/Hackerrank-1835-green?style=for-the-badge"></a>
 
 -->
 
-## Academics, Freelance and Internships
+## Academics
 
 <span><img src="https://img.shields.io/badge/BIT_Mesra-BTECH_CSE-orange?style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/GPA-7.79/10-rgb(0%2C0%2C255)?style=for-the-badge"></span>
